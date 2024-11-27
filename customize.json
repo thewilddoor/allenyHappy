@@ -1,0 +1,23 @@
+{
+  "greeting": "Hiya",
+  "name": "Allen Yang",
+  "greetingText": "The most handsome person in the world!",
+  "wishText": "YaY ;)",
+  "imagePath": "img/lydia2.png",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "interesting",
+  "text5Entry": "Because,",
+  "text5Content": "You are my friend",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Hope you like this web animation.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
